@@ -1,6 +1,5 @@
 # Garage-Door-Opener
-Created by Areya Joya
-Working as of June 16, 2016
+Created by Areya Joya, amd working as of June 16, 2016
 Opens and closes a garage door with a finger print and/or any WiFi connected device.
 Uses Adafruit fingerprint sensor and Adafruit HUZZAH ESP8266 (any ESP8266 will work).
 Can easily be modified to accomodate other input methods (keypad, RFID, IR, radio transmitter, etc.)
