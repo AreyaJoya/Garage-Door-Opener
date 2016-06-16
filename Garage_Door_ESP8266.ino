@@ -1,4 +1,4 @@
-//Garage Door webshite for Adafruit HUZZAH ESP8266
+//Garage Door website for Adafruit HUZZAH ESP8266
 //Working as of June 16, 2016
 
 #include <ESP8266WiFi.h>
