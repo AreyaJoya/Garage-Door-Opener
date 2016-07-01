@@ -8,7 +8,7 @@
 int getFingerprintIDez();
 
 int output = 4; //Output to turn on relay
-int input = 5; //Input for ESP8266
+int input = 9; //Input for ESP8266
 
 // pin #2 is IN from sensor (GREEN wire)
 // pin #3 is OUT from arduino  (WHITE wire)
